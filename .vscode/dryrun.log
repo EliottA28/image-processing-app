@@ -1,5 +1,0 @@
-make --dry-run --keep-going --print-directory
-make: Entering directory `/Users/eliott/wxWidgets-3.1.5/macbuild/app'
-make: Nothing to be done for `all'.
-make: Leaving directory `/Users/eliott/wxWidgets-3.1.5/macbuild/app'
- 
