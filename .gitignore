@@ -1,3 +1,4 @@
 obj/*
 main
 .DS_Store
+.vscode/*
